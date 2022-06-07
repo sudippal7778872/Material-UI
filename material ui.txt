@@ -1,0 +1,9 @@
+button:-
+color="primary"   || "success","error", "secondary"
+size="small"      || "large", "medium"
+varient="text"    || "contained", "outlined"
+startIcon={<DeleteIcon />}
+endIcon={<SendIcon />}
+disabled
+
+
